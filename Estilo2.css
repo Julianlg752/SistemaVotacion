@@ -1,0 +1,35 @@
+*{	
+	color: black;
+}
+input{
+	position: relative;
+	width: 125px;
+	height: 125px;
+	top: 55px;
+}
+img {
+position: relative;
+height:55px;
+float:right;
+}
+
+
+div{
+float: left;
+
+}
+.aspi{
+	position: relative;	
+	top:55px;
+	float:right;
+}
+.elegir{
+position: absolute;
+top:30px;
+color: grey;
+font-size: 35px;
+left: 5%;
+
+}
+
+
